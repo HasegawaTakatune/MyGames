@@ -1,0 +1,38 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   22.21.13.8165
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.019 seconds
+Platform assembly: C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.253397 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.886820 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 421.
+Total: 0.368259 ms (FindLiveObjects: 0.023401 ms CreateObjectMapping: 0.021758 ms MarkObjects: 0.310372 ms  DeleteObjects: 0.011905 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 20a0 -> priority: 1 
+  Thread -> id: a80 -> priority: 1 
+  Thread -> id: 2538 -> priority: 1 
+  Thread -> id: 2a44 -> priority: 1 
