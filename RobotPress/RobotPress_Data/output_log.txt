@@ -17,22 +17,70 @@ Platform assembly: C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Da
 Loading C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.019 seconds
+- Completed reload, in  0.053 seconds
 Platform assembly: C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\nwuser.DA\Documents\MyGames\RobotPress\RobotPress_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 1.253397 ms
+UnloadTime: 2.241992 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.886820 ms
+UnloadTime: 7.062624 ms
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 421.
-Total: 0.368259 ms (FindLiveObjects: 0.023401 ms CreateObjectMapping: 0.021758 ms MarkObjects: 0.310372 ms  DeleteObjects: 0.011905 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.419167 ms (FindLiveObjects: 0.029969 ms CreateObjectMapping: 0.022990 ms MarkObjects: 0.349785 ms  DeleteObjects: 0.016011 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.864199 ms
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 0.467201 ms (FindLiveObjects: 0.030380 ms CreateObjectMapping: 0.026685 ms MarkObjects: 0.210610 ms  DeleteObjects: 0.199114 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.592007 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 293.
+Total: 0.237295 ms (FindLiveObjects: 0.015190 ms CreateObjectMapping: 0.018064 ms MarkObjects: 0.172429 ms  DeleteObjects: 0.031612 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.899917 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.562858 ms (FindLiveObjects: 0.036128 ms CreateObjectMapping: 0.035306 ms MarkObjects: 0.473359 ms  DeleteObjects: 0.017242 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.628546 ms
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 0.591186 ms (FindLiveObjects: 0.037359 ms CreateObjectMapping: 0.036538 ms MarkObjects: 0.243453 ms  DeleteObjects: 0.273423 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.316210 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 293.
+Total: 0.360870 ms (FindLiveObjects: 0.032843 ms CreateObjectMapping: 0.029559 ms MarkObjects: 0.243043 ms  DeleteObjects: 0.054602 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.440515 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.669190 ms (FindLiveObjects: 0.051728 ms CreateObjectMapping: 0.045570 ms MarkObjects: 0.551773 ms  DeleteObjects: 0.019295 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.057566 ms
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 0.743499 ms (FindLiveObjects: 0.045981 ms CreateObjectMapping: 0.054192 ms MarkObjects: 0.321047 ms  DeleteObjects: 0.321047 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.060440 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 293.
+Total: 0.355943 ms (FindLiveObjects: 0.038591 ms CreateObjectMapping: 0.037770 ms MarkObjects: 0.222926 ms  DeleteObjects: 0.055834 ms)
 
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 20a0 -> priority: 1 
-  Thread -> id: a80 -> priority: 1 
-  Thread -> id: 2538 -> priority: 1 
-  Thread -> id: 2a44 -> priority: 1 
+  Thread -> id: 3910 -> priority: 1 
+  Thread -> id: 3918 -> priority: 1 
+  Thread -> id: c1c -> priority: 1 
+  Thread -> id: 3a3c -> priority: 1 
